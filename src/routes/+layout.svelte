@@ -8,6 +8,12 @@
 
 <article>
   <slot />
+
+  <hr />
+  <div class="margin-bottom">
+    Created by <a href="https://github.com/tzador" target="_blank">Tim</a>
+    using <a href="https://chat.openai.com/">ChatGPT</a>
+  </div>
 </article>
 
 <style>
