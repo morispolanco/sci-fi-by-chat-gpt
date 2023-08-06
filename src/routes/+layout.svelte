@@ -8,7 +8,7 @@
 
 <article>
   <div class="margin-top margin-bottom">
-    <a href="https://news.ycombinator.com/item?id=36542265" target="_blank">Discuss on HN</a>
+    <a href="https://news.ycombinator.com/item?id=37021050" target="_blank">Discuss on HN</a>
   </div>
 
   <slot />
