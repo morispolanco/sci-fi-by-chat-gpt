@@ -2,7 +2,7 @@
   export let data;
 </script>
 
-<p>The below Sci-Fi story was written by ChatGPT</p>
+<h4><a href="/">Sci-Fi stories written by ChatGPT</a></h4>
 
 <h3>{data.story.title}</h3>
 

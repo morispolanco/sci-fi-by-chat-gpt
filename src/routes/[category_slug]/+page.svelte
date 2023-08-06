@@ -2,13 +2,11 @@
   export let data;
 </script>
 
-<h1>Sci-Fi stories by ChatGPT</h1>
+<h4><a href="/">Sci-Fi stories written by ChatGPT</a></h4>
 
-<h2>{data.category.title}</h2>
+<h3>{data.category.title}</h3>
 
 <p>{data.category.description}</p>
-
-<hr />
 
 {#each data.stories as story (story.slug)}
   <p><a href={`/${data.category.slug}/${story.slug}`}>{story.title}</a> {story.description}</p>

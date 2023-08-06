@@ -7,9 +7,14 @@
 </script>
 
 <article>
+  <div class="margin-top margin-bottom">
+    <a href="https://news.ycombinator.com/item?id=36542265" target="_blank">Discuss on HN</a>
+  </div>
+
   <slot />
 
   <hr />
+
   <div class="margin-bottom">
     Created by <a href="https://github.com/tzador" target="_blank">Tim</a>
     using <a href="https://chat.openai.com/">ChatGPT</a>
