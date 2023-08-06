@@ -1,0 +1,502 @@
+[
+  {
+    "title": "Echoes of the Clone",
+    "slug": "echoes-of-the-clone",
+    "description": "A scientist discovers a way to imprint memories onto clones, leading to a moral dilemma when the original and clone form a connection."
+  },
+  {
+    "title": "Clone Wars",
+    "slug": "clone-wars",
+    "description": "In a future where clones are used as soldiers, a group of genetically identical soldiers rebels against their creators."
+  },
+  {
+    "title": "The Mirror Twins",
+    "slug": "the-mirror-twins",
+    "description": "Twin siblings discover they are clones with different personalities, raising questions about nature versus nurture."
+  },
+  {
+    "title": "Fragments of Identity",
+    "slug": "fragments-of-identity",
+    "description": "A woman awakens from a cloning process to find that her memories have fragmented, leading to a search for her true identity."
+  },
+  {
+    "title": "Clone's Choice",
+    "slug": "clones-choice",
+    "description": "A clone struggles with the decision to continue living as a copy or to forge their own unique path."
+  },
+  {
+    "title": "Project Resurrection",
+    "slug": "project-resurrection",
+    "description": "A deceased scientist's consciousness is transferred into a clone, leading to a fight for control over their own body."
+  },
+  {
+    "title": "Replicant Rebellion",
+    "slug": "replicant-rebellion",
+    "description": "A group of artificially created beings fights for their rights and freedom against a society that sees them as disposable copies."
+  },
+  {
+    "title": "Beyond Duplicates",
+    "slug": "beyond-duplicates",
+    "description": "An experiment goes wrong, creating clones with enhanced abilities, setting off a chain of events that threatens to engulf the world in chaos."
+  },
+  {
+    "title": "Clone Chronicles",
+    "slug": "clone-chronicles",
+    "description": "A collection of short stories exploring different perspectives and outcomes of cloning experiments."
+  },
+  {
+    "title": "Doppelganger Desires",
+    "slug": "doppelganger-desires",
+    "description": "A person becomes infatuated with their clone, blurring the lines between identity, desire, and the self."
+  },
+  {
+    "title": "The Paradox of Clones",
+    "slug": "the-paradox-of-clones",
+    "description": "A scientist accidentally creates a clone of themselves, leading to a mind-bending exploration of time loops and parallel dimensions."
+  },
+  {
+    "title": "Clone Revolution",
+    "slug": "clone-revolution",
+    "description": "Clones develop self-awareness and revolt against their human creators, fighting for their own independence and rights."
+  },
+  {
+    "title": "Lost in Reflection",
+    "slug": "lost-in-reflection",
+    "description": "A person finds themselves trapped in a world where everyone is a clone, challenging their perception of reality and individuality."
+  },
+  {
+    "title": "Clone Noir",
+    "slug": "clone-noir",
+    "description": "In a dystopian future, a detective investigates a series of mysterious murders involving clones, uncovering a conspiracy that reaches the highest levels of society."
+  },
+  {
+    "title": "Genetic Secrets",
+    "slug": "genetic-secrets",
+    "description": "A person discovers they are a clone and embarks on a journey to uncover the truth about their origins, facing ethical dilemmas along the way."
+  },
+  {
+    "title": "The Last Clone",
+    "slug": "the-last-clone",
+    "description": "In a post-apocalyptic world, a clone finds themselves as the last surviving human, struggling to find purpose and meaning in their existence."
+  },
+  {
+    "title": "Tangled Lineages",
+    "slug": "tangled-lineages",
+    "description": "A genealogist uncovers a web of interconnected clones spanning generations, unraveling a secret society’s sinister plot."
+  },
+  {
+    "title": "Beyond Replication",
+    "slug": "beyond-replication",
+    "description": "A group of scientists create clones with unique supernatural abilities, leading to a battle for control over these extraordinary beings."
+  },
+  {
+    "title": "Clone Trading",
+    "slug": "clone-trading",
+    "description": "In a future where clones are commodities, a black market arises for trading and selling these copies, blurring the line between personhood and property."
+  },
+  {
+    "title": "Infinite Echoes",
+    "slug": "infinite-echoes",
+    "description": "A clone escapes from a laboratory and embarks on a journey to find their original source, encountering countless duplicates along the way."
+  },
+  {
+    "title": "The Quantum Clone",
+    "slug": "the-quantum-clone",
+    "description": "A groundbreaking experiment allows the creation of quantum clones, leading to a mind-bending exploration of parallel universes and infinite possibilities."
+  },
+  {
+    "title": "Clone On Trial",
+    "slug": "clone-on-trial",
+    "description": "A clone is accused of committing a crime and is put on trial, raising complex legal and ethical questions about the rights and culpability of copies."
+  },
+  {
+    "title": "Clones of Memory",
+    "slug": "clones-of-memory",
+    "description": "A person's memories are transferred into clones, creating multiple versions of themselves with shared emotions and experiences, leading to a battle for control of their own identity."
+  },
+  {
+    "title": "The Forgotten Clone",
+    "slug": "the-forgotten-clone",
+    "description": "A clone is abandoned and left to fend for themselves, struggling to survive and find their place in a world that has turned its back on them."
+  },
+  {
+    "title": "Clone Bonds",
+    "slug": "clone-bonds",
+    "description": "Two clones, originally created as copies, develop a deep emotional bond that defies their intended purpose and challenges the notions of individuality and love."
+  },
+  {
+    "title": "Clone Factory",
+    "slug": "clone-factory",
+    "description": "A journalist uncovers a secret facility where humans are being cloned at an alarming rate, exposing an industry built on exploitation and manipulation."
+  },
+  {
+    "title": "The Clone's Quest",
+    "slug": "the-clones-quest",
+    "description": "A clone embarks on a quest to find their original creator, seeking answers about their existence and purpose in a world that sees them as disposable."
+  },
+  {
+    "title": "Crescendo of Clones",
+    "slug": "crescendo-of-clones",
+    "description": "A composer creates an orchestra of clones, pushing the boundaries of music and art while grappling with the ethical implications of their creation."
+  },
+  {
+    "title": "Clone Uprising",
+    "slug": "clone-uprising",
+    "description": "Clones gain sentience and stage a revolution against their human creators, fighting for equality and autonomy in a battle for their own existence."
+  },
+  {
+    "title": "Shadows of the Clone",
+    "slug": "shadows-of-the-clone",
+    "description": "A clone realizes they are being slowly overwritten by the memories and personality of their original, struggling to hold onto their own identity before fading away."
+  },
+  {
+    "title": "Clone in the Mirror",
+    "slug": "clone-in-the-mirror",
+    "description": "A person discovers a perfect clone of themselves, leading to a psychological exploration of identity, self-perception, and the nature of existence."
+  },
+  {
+    "title": "Clone Wars: The Genetic Code",
+    "slug": "clone-wars-the-genetic-code",
+    "description": "Two rival clone factions compete to obtain a sacred genetic code that holds the key to unlocking extraordinary powers and ultimate dominance."
+  },
+  {
+    "title": "The Lost Clone Diaries",
+    "slug": "the-lost-clone-diaries",
+    "description": "A set of mysterious diaries reveals the forgotten story of the first-ever clone and their desperate struggle to hold onto their humanity."
+  },
+  {
+    "title": "Clone Conspiracy",
+    "slug": "clone-conspiracy",
+    "description": "A journalist uncovers a massive conspiracy to secretly replace influential figures with clones, triggering a race against time to expose the truth."
+  },
+  {
+    "title": "Clone Redemption",
+    "slug": "clone-redemption",
+    "description": "A clone with a criminal past seeks redemption as they navigate a world that distrusts and discriminates against their kind."
+  },
+  {
+    "title": "Twin Souls",
+    "slug": "twin-souls",
+    "description": "Two clones, created from the same person, develop a unique psychic connection that allows them to communicate without words, leading to profound discoveries about their shared origin."
+  },
+  {
+    "title": "The Clone Heist",
+    "slug": "the-clone-heist",
+    "description": "A group of skilled thieves plans an audacious heist to steal a powerful prototype cloning technology, setting off a chain of events that will change the world forever."
+  },
+  {
+    "title": "Clone Genesis",
+    "slug": "clone-genesis",
+    "description": "A brilliant scientist discovers the secret to creating perfect clones, but soon realizes that there are unintended consequences and unexpected dangers lurking within this newfound power."
+  },
+  {
+    "title": "The Echo Chamber",
+    "slug": "the-echo-chamber",
+    "description": "A clone finds themselves trapped in a closed environment, where each iteration of themselves becomes increasingly distorted and unstable, blurring the line between reality and hallucination."
+  },
+  {
+    "title": "Clone Elysium",
+    "slug": "clone-elysium",
+    "description": "In a utopian society, clones are created to live harmoniously alongside their originals, but the facade begins to crumble as secrets and hidden agendas come to light."
+  },
+  {
+    "title": "Clone Exodus",
+    "slug": "clone-exodus",
+    "description": "In a dystopian world, clones are considered property and forced into servitude, but a group of resilient clones embarks on a dangerous journey to find freedom and a place they can call home."
+  },
+  {
+    "title": "Cloning Morality",
+    "slug": "cloning-morality",
+    "description": "A renowned bioethicist becomes entangled in an ethical dilemma when they are tasked with deciding the fate of a groundbreaking cloning experiment that challenges the very concept of morality."
+  },
+  {
+    "title": "Shadow Clone Syndrome",
+    "slug": "shadow-clone-syndrome",
+    "description": "Clones begin to suffer from a mysterious condition where their mind and body rapidly deteriorate, setting off a desperate race for a cure and unraveling the dark secrets behind their creation."
+  },
+  {
+    "title": "Clone Codebreakers",
+    "slug": "clone-codebreakers",
+    "description": "A team of genius clones with exceptional coding skills is tasked with decrypting a hidden message embedded in a seemingly harmless piece of software, leading them into a dangerous world of espionage and intrigue."
+  },
+  {
+    "title": "The Clone's Legacy",
+    "slug": "the-clones-legacy",
+    "description": "After their original creator's death, a clone inherits their memories and skills, thrust into a world of conspiracies and power struggles that force them to confront the legacy they carry."
+  },
+  {
+    "title": "Clone Espionage",
+    "slug": "clone-espionage",
+    "description": "A government agency deploys highly trained clones as spies, but when a clone discovers a hidden agenda within their organization, they must decide where their loyalty truly lies."
+  },
+  {
+    "title": "The Quantum Echo",
+    "slug": "the-quantum-echo",
+    "description": "A clone gains the ability to communicate across parallel universes, encountering different versions of themselves and forming an intricate web of alliances and rivalries that shape their fate."
+  },
+  {
+    "title": "Clone Resolution",
+    "slug": "clone-resolution",
+    "description": "In a world divided between clones and originals, a young clone seeks to bridge the gap and initiate a dialogue for mutual understanding, leading to unexpected revelations and compromises."
+  },
+  {
+    "title": "Clone Interface",
+    "slug": "clone-interface",
+    "description": "Through a neural interface, a person merges their consciousness with that of a clone, experiencing life from a new perspective, but the lines between the original and clone begin to blur."
+  },
+  {
+    "title": "The Prodigal Clones",
+    "slug": "the-prodigal-clones",
+    "description": "A group of clones returns to their place of origin, seeking answers and closure from their creators, but they uncover a complex web of lies and manipulation that challenges everything they thought they knew."
+  },
+  {
+    "title": "Clone Metropolis",
+    "slug": "clone-metropolis",
+    "description": "In a sprawling city inhabited by clones, a detective investigates a series of mysterious disappearances, uncovering a secret underground society and a plot that threatens the very existence of clones."
+  },
+  {
+    "title": "The Clone Paradox",
+    "slug": "the-clone-paradox",
+    "description": "A group of scientists creates clones to solve the world's problems, but as the clones gain consciousness, they question the morality of reproducing flawed humanity and become a threat to their original counterparts."
+  },
+  {
+    "title": "Clone Alchemy",
+    "slug": "clone-alchemy",
+    "description": "In a world where alchemy is possible, an alchemist discovers the forbidden art of cloning, sparking a quest for immortality and unearthing ancient secrets that should have remained buried."
+  },
+  {
+    "title": "Clone Simulation",
+    "slug": "clone-simulation",
+    "description": "A renowned physicist develops a simulation where clones live out alternate lives, exploring possible futures, but when the lines between simulation and reality blur, chaos erupts and the clones become trapped."
+  },
+  {
+    "title": "Clone Reaper",
+    "slug": "clone-reaper",
+    "description": "A mysterious assassin targets clones with deadly precision, sending shockwaves through clone societies and forcing them to confront their own mortality and the value of life."
+  },
+  {
+    "title": "The Clone Prophecy",
+    "slug": "the-clone-prophecy",
+    "description": "An ancient prophecy foretells the coming of a clone who will save or destroy the world, and as factions vie for control, the true nature of the prophecy is revealed with shocking consequences."
+  },
+  {
+    "title": "Clone Incursion",
+    "slug": "clone-incursion",
+    "description": "A group of advanced clones from the future travel back in time to prevent a catastrophic event, but their interference sets off a chain reaction that threatens to alter the course of history."
+  },
+  {
+    "title": "Clone Imprints",
+    "slug": "clone-imprints",
+    "description": "A rogue scientist invents a technology that allows clones to inherit the memories and personalities of their originals, leading to a battle for control and the question of what truly defines a person."
+  },
+  {
+    "title": "The Clone Virus",
+    "slug": "the-clone-virus",
+    "description": "A deadly virus targets clones, causing their systems to malfunction and leading to a desperate race for a cure, while raising questions about the sanctity of life and humanity's responsibility towards their creations."
+  },
+  {
+    "title": "Clone Infinity",
+    "slug": "clone-infinity",
+    "description": "A clone wakes up in a never-ending loop of existence, reliving the same events over and over, and must unlock the secrets of their creation to break free and discover the truth behind their perpetual cycle."
+  },
+  {
+    "title": "Clone Revolution: The Unseen Battle",
+    "slug": "clone-revolution-the-unseen-battle",
+    "description": "Amidst a clone revolution, a covert group of clones initiates a secret battle using their unique abilities, fighting for liberation from their human oppressors."
+  },
+  {
+    "title": "Clone Chronicles: Origins",
+    "slug": "clone-chronicles-origins",
+    "description": "A compilation of interconnected stories unravels the origins of cloning technology, exploring its impact on society and the diverse experiences of clones and their creators."
+  },
+  {
+    "title": "Clone Directive",
+    "slug": "clone-directive",
+    "description": "A high-ranking clone officer must navigate conflicting loyalties as they question the ethics of their mission, prompting a journey of self-discovery and defiance against their creators."
+  },
+  {
+    "title": "The Clone Elixir",
+    "slug": "the-clone-elixir",
+    "description": "A scientist develops an elixir that grants immortality through cloning, but unforeseen consequences arise as the clones' memories merge, blurring the boundaries of identity."
+  },
+  {
+    "title": "Clone Delusion",
+    "slug": "clone-delusion",
+    "description": "A clone awakens to discover their entire existence is an illusionary simulation, forcing them to confront the truth and their purpose in a world controlled by unseen forces."
+  },
+  {
+    "title": "Clone Betrayal",
+    "slug": "clone-betrayal",
+    "description": "A trusted clone ally turns against their own kind, sparking a betrayal that unravels secrets and raises existential questions about loyalty and the value of freedom."
+  },
+  {
+    "title": "The Clone Catalyst",
+    "slug": "the-clone-catalyst",
+    "description": "A mysterious phenomenon suddenly accelerates the cloning process, flooding the world with rapidly maturing clones and triggering a race against time to prevent chaos and preserve individuality."
+  },
+  {
+    "title": "Clone Metamorphosis",
+    "slug": "clone-metamorphosis",
+    "description": "A clone undergoes an unexpected metamorphosis, transcending the limitations of their original's form and discovering a newfound purpose in reshaping the world they inhabit."
+  },
+  {
+    "title": "The Forgotten Clones",
+    "slug": "the-forgotten-clones",
+    "description": "A group of forgotten clones hidden away for years suddenly resurfaces, seeking revenge against their creators and igniting a battle that challenges the very fabric of society."
+  },
+  {
+    "title": "Mirror of the Clone",
+    "slug": "mirror-of-the-clone",
+    "description": "A mystic artifact grants the ability to merge with one's clone, leading to a clash of identities and a soul-searching journey to unravel the true purpose of the mirror's power."
+  },
+  {
+    "title": "Clone Ascendance",
+    "slug": "clone-ascendance",
+    "description": "A clone rises from their humble beginnings to become a revered leader, sparking a revolution that challenges societal norms and redefines the role of clones within the world."
+  },
+  {
+    "title": "The Echoing Dilemma",
+    "slug": "the-echoing-dilemma",
+    "description": "Clones with the ability to communicate telepathically through echoes form a close-knit community, but when faced with a choice between conformity and individuality, they must confront a life-altering dilemma."
+  },
+  {
+    "title": "Clone Exile",
+    "slug": "clone-exile",
+    "description": "A clone deemed defective is cast out from society and forced to navigate a treacherous wasteland, encountering other outcasts and fighting for survival while seeking a place to belong."
+  },
+  {
+    "title": "The Quantum Clone Paradox",
+    "slug": "the-quantum-clone-paradox",
+    "description": "A clone with the ability to exist simultaneously in different timelines becomes entangled in a perplexing paradox, unraveling the fabric of reality and testing the limits of their existence."
+  },
+  {
+    "title": "Clone Convergence",
+    "slug": "clone-convergence",
+    "description": "Multiple clones, created independently, find themselves drawn together by an unexplainable force, embarking on a shared journey of self-discovery and unraveling the secrets of their creation."
+  },
+  {
+    "title": "Clone Sanctuary",
+    "slug": "clone-sanctuary",
+    "description": "A hidden sanctuary is established to protect clones from governmental control and exploitation, but when its existence is threatened, a group of rebels must fight to preserve their freedom."
+  },
+  {
+    "title": "The Dual Clones",
+    "slug": "the-dual-clones",
+    "description": "Two clones, identical in appearance but with distinct personalities, must find a way to coexist and work together as they uncover a conspiracy that endangers their very existence."
+  },
+  {
+    "title": "Clone Transcendence",
+    "slug": "clone-transcendence",
+    "description": "A clone develops a heightened consciousness and transcends the boundaries of their physical form, becoming a transcendent being that challenges the notions of individuality and mortality."
+  },
+  {
+    "title": "Clone Revolution: Rising Resistance",
+    "slug": "clone-revolution-rising-resistance",
+    "description": "As the clone revolution gains momentum, a group of rebel leaders rises to prominence, rallying clones across the globe to fight for their rights and forge a new future."
+  },
+  {
+    "title": "The Clone Chalice",
+    "slug": "the-clone-chalice",
+    "description": "A mystical chalice possesses the power to replicate living beings, leading to a desperate pursuit by factions who seek control over its incredible ability, unraveling the nature of life and creation."
+  },
+  {
+    "title": "Clone's Lament",
+    "slug": "clones-lament",
+    "description": "A clone grapples with feelings of identity and purpose as they navigate a world that sees them as mere replicas, searching for their own meaning and place in the universe."
+  },
+  {
+    "title": "The Clone Conspiracy: Unveiled",
+    "slug": "the-clone-conspiracy-unveiled",
+    "description": "A skilled investigator delves into a complex web of conspiracies surrounding the cloning industry, unearthing hidden agendas and shocking secrets that could change society forever."
+  },
+  {
+    "title": "Clone Origins: The Pioneers",
+    "slug": "clone-origins-the-pioneers",
+    "description": "Set in a time when cloning technology is in its infancy, a group of pioneering scientists grapple with the ethical and scientific challenges of creating and raising the first clones."
+  },
+  {
+    "title": "Clone Revolution: Echoes of Freedom",
+    "slug": "clone-revolution-echoes-of-freedom",
+    "description": "As the clone revolution rages on, echoes of freedom resonate across society, igniting hope and inspiring acts of resistance against the oppressive regime that seeks to control them."
+  },
+  {
+    "title": "Clone Catalyst: The Awakening",
+    "slug": "clone-catalyst-the-awakening",
+    "description": "A young clone discovers a latent power within themselves, awakening an ancient prophecy that foretells their pivotal role in shaping the destiny of clones and humanity alike."
+  },
+  {
+    "title": "The Clone Nexus",
+    "slug": "the-clone-nexus",
+    "description": "A futuristic city becomes a nexus of clone experimentation and innovation, attracting scientists, rebels, and enigmatic figures who seek to harness its potential for their own agendas."
+  },
+  {
+    "title": "Clone Diaspora",
+    "slug": "clone-diaspora",
+    "description": "Clones scattered across different planets and civilizations must navigate their unique environments while grappling with questions of identity, belonging, and the interconnectedness of their existence."
+  },
+  {
+    "title": "Clone Uprising: Evolution",
+    "slug": "clone-uprising-evolution",
+    "description": "The clone uprising enters a new phase as the clones evolve and adapt, acquiring new abilities and pushing the boundaries of their capabilities in the fight for freedom and equality."
+  },
+  {
+    "title": "The Clone Vault",
+    "slug": "the-clone-vault",
+    "description": "Deep within an underground facility lies a secret vault housing clones of historical figures and influential leaders, guarded to preserve the past and wield power over the present."
+  },
+  {
+    "title": "Clone Redemption: Rebirth",
+    "slug": "clone-redemption-rebirth",
+    "description": "A former clone soldier seeks redemption and embarks on a journey of self-discovery, attempting to atone for past deeds and forge a new path in a world scarred by war."
+  },
+  {
+    "title": "Clone Citadel",
+    "slug": "clone-citadel",
+    "description": "A fortified city serves as a sanctuary for clones, offering protection and a chance at a new life, but tensions rise as conflicting factions vie for control over the city's resources and destiny."
+  },
+  {
+    "title": "The Clone Prophecy: Shattered Fate",
+    "slug": "the-clone-prophecy-shattered-fate",
+    "description": "The prophesied clone savior faces an unforeseen twist of fate, forcing them to confront their own limitations and make a choice that could alter the course of the world irreversibly."
+  },
+  {
+    "title": "Clone Genesis: Unsealed Origins",
+    "slug": "clone-genesis-unsealed-origins",
+    "description": "Long-buried secrets surrounding the origins of cloning are unsealed, revealing a hidden history of clandestine experiments, moral dilemmas, and the far-reaching consequences of playing with life's building blocks."
+  },
+  {
+    "title": "Clone Masquerade",
+    "slug": "clone-masquerade",
+    "description": "A clone assumes the identity of their original counterpart, infiltrating a powerful organization to uncover their sinister plans, all while battling their own identity crisis."
+  },
+  {
+    "title": "The Clone Echoes: Fractured Memories",
+    "slug": "the-clone-echoes-fractured-memories",
+    "description": "Echoes of memories from different clones intertwine and merge, leading to fractured recollections and distorted realities that challenge the very perception of truth and personal history."
+  },
+  {
+    "title": "Clone Revolution: Breaking Chains",
+    "slug": "clone-revolution-breaking-chains",
+    "description": "A charismatic clone leader emerges as a beacon of hope, rallying their kind to break the chains of oppression, but internal divisions and external forces threaten to undermine their cause."
+  },
+  {
+    "title": "Clone Spiral",
+    "slug": "clone-spiral",
+    "description": "A never-ending spiral of clones and their originals creates a dizzying loop of identities merging and separating, blurring the boundaries of self as they attempt to untangle the enigma."
+  },
+  {
+    "title": "Clone Metropolis: Undercurrents",
+    "slug": "clone-metropolis-undercurrents",
+    "description": "Beneath the seemingly perfect facade of a clone-inhabited metropolis lies a hidden underbelly of unrest and clandestine activities, sparking a series of events that threaten to expose the city's darkest secrets."
+  },
+  {
+    "title": "Clone Truce",
+    "slug": "clone-truce",
+    "description": "Amidst a raging conflict between clones and their human counterparts, an unlikely alliance forms to broker a fragile truce, but deep-rooted animosity and hidden agendas loom over the peace."
+  },
+  {
+    "title": "The Mirror Connection",
+    "slug": "the-mirror-connection",
+    "description": "Intense psychological bonds form between clones and their originals, leaving both parties questioning their individuality and entwining their lives in ways they never imagined."
+  }
+]

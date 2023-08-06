@@ -1,0 +1,8 @@
+a {
+  color: dodgerblue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: dodgerblue;
+}

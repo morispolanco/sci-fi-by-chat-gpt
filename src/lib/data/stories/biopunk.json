@@ -1,0 +1,502 @@
+[
+  {
+    "title": "Genome Revolution",
+    "slug": "genome-revolution",
+    "description": "In a future where everyone can modify their genetic code, a group of rebels fights against the oppressive genetic purists."
+  },
+  {
+    "title": "Symbiotic Evolution",
+    "slug": "symbiotic-evolution",
+    "description": "A scientist accidentally creates a symbiotic organism that enhances human capabilities, but soon realizes that it has its own hidden agenda."
+  },
+  {
+    "title": "The Augmented Heist",
+    "slug": "the-augmented-heist",
+    "description": "A skilled thief assembles a team of augmented individuals to pull off the ultimate heist in a city controlled by a corrupt biotech corporation."
+  },
+  {
+    "title": "Resurgence of the Plague",
+    "slug": "resurgence-of-the-plague",
+    "description": "A deadly virus thought to be eradicated resurfaces due to a designer pathogen created by a rogue geneticist, and the world must face the consequences."
+  },
+  {
+    "title": "The Biohacker's Dilemma",
+    "slug": "the-biohackers-dilemma",
+    "description": "A brilliant biohacker discovers a way to extend human lifespan, but faces a moral dilemma as the consequences of immortality become apparent."
+  },
+  {
+    "title": "Sentient Seeds",
+    "slug": "sentient-seeds",
+    "description": "A geneticist creates genetically modified plants with advanced intelligence and consciousness, leading to a battle for control between humans and the plant kingdom."
+  },
+  {
+    "title": "Transhuman Uprising",
+    "slug": "transhuman-uprising",
+    "description": "As the lines between humans and machines blur, a group of transhuman rebels fights against a totalitarian regime that seeks to eliminate organic life."
+  },
+  {
+    "title": "Virtual Genetics",
+    "slug": "virtual-genetics",
+    "description": "In a virtual world where genetic modification is limitless, a hacker discovers a secret project that could alter the fabric of reality itself."
+  },
+  {
+    "title": "The Hybrid Frontier",
+    "slug": "the-hybrid-frontier",
+    "description": "A group of pioneers venture into uncharted territories where humans coexist with hybrid creatures that combine the DNA of different species."
+  },
+  {
+    "title": "The Conscious Experiment",
+    "slug": "the-conscious-experiment",
+    "description": "A group of scientists conducts an experiment to transfer human consciousness into artificial bodies, leading to unforeseen consequences and ethical dilemmas."
+  },
+  {
+    "title": "Bio-Enhanced Warfare",
+    "slug": "bio-enhanced-warfare",
+    "description": "In a war-torn future, soldiers are genetically modified and equipped with advanced biotechnology, but one soldier starts questioning the cost of their enhanced abilities."
+  },
+  {
+    "title": "The Cloning Conspiracy",
+    "slug": "the-cloning-conspiracy",
+    "description": "A detective uncovers a secret plot involving the cloning of influential individuals, leading them on a dangerous journey to expose the truth."
+  },
+  {
+    "title": "Mutation Outbreak",
+    "slug": "mutation-outbreak",
+    "description": "A mysterious mutation sweeps across the population, granting extraordinary abilities to some while turning others into monstrous creatures. A group of survivors must navigate this new world."
+  },
+  {
+    "title": "Eco-Genetics",
+    "slug": "eco-genetics",
+    "description": "In a world ravaged by environmental disasters, scientists develop genetically modified organisms capable of restoring balance to ecosystems, but unforeseen consequences arise."
+  },
+  {
+    "title": "The Neural Network",
+    "slug": "the-neural-network",
+    "description": "A brilliant scientist invents a neural implant that connects humans to a collective consciousness, but the line between individuality and hive mind becomes blurred."
+  },
+  {
+    "title": "The Biotech Conspiracy",
+    "slug": "the-biotech-conspiracy",
+    "description": "An investigative journalist uncovers a vast conspiracy involving a powerful biotech corporation manipulating the world's population through genetic manipulation."
+  },
+  {
+    "title": "The Memory Hackers",
+    "slug": "the-memory-hackers",
+    "description": "A group of renegade scientists discovers a way to manipulate memories, leading to a black market trade of stolen and altered memories and the fight against a totalitarian regime controlling minds."
+  },
+  {
+    "title": "The Experiment Gone Wrong",
+    "slug": "the-experiment-gone-wrong",
+    "description": "A groundbreaking experiment to unlock hidden human potential takes a disastrous turn, resulting in the emergence of dangerous, uncontrollable abilities."
+  },
+  {
+    "title": "Cybernetic Dreams",
+    "slug": "cybernetic-dreams",
+    "description": "In a society where cybernetic implants are the norm, a young hacker uncovers a secret organization manipulating the minds of citizens through their neural enhancements."
+  },
+  {
+    "title": "The Virus Within",
+    "slug": "the-virus-within",
+    "description": "A scientist accidentally infects themselves with a previously unknown virus that grants them extraordinary powers, but also threatens their sanity and humanity."
+  },
+  {
+    "title": "Genetic Redemption",
+    "slug": "genetic-redemption",
+    "description": "A convicted criminal volunteers for a groundbreaking genetic experiment that promises to rewrite their DNA and give them a second chance at life."
+  },
+  {
+    "title": "The Bio-Synth Rebellion",
+    "slug": "the-bio-synth-rebellion",
+    "description": "Synthetic humans with advanced biological components rebel against their creators, sparking a conflict that questions the nature of humanity and consciousness."
+  },
+  {
+    "title": "The Immortality Dilemma",
+    "slug": "the-immortality-dilemma",
+    "description": "A society on the brink of achieving immortality must grapple with the ethical implications and unintended consequences of living forever."
+  },
+  {
+    "title": "Neo-Human",
+    "slug": "neo-human",
+    "description": "A group of radical biohackers pioneers a procedure to merge human consciousness with artificial intelligence, blurring the line between man and machine."
+  },
+  {
+    "title": "The Gene Thief",
+    "slug": "the-gene-thief",
+    "description": "A skilled thief infiltrates high-security biotech laboratories to steal valuable genetic material, but stumbles upon a secret project that could change the world."
+  },
+  {
+    "title": "Evolution's End",
+    "slug": "evolutions-end",
+    "description": "In a world where genetic modification has reached its limits, humanity faces the final stage of evolution, leading to a battle for survival and the future of the species."
+  },
+  {
+    "title": "The Nano Swarm",
+    "slug": "the-nano-swarm",
+    "description": "A self-replicating nanotechnology swarm threatens to consume all living matter, and a small group of scientists must find a way to stop it before it's too late."
+  },
+  {
+    "title": "The Metahuman Academy",
+    "slug": "the-metahuman-academy",
+    "description": "In a world where children with extraordinary abilities are sent to a specialized academy, a group of students uncover a dark secret about their own origins."
+  },
+  {
+    "title": "The Genetic Time Traveler",
+    "slug": "the-genetic-time-traveler",
+    "description": "A scientist develops a technology to travel through time by altering their own genetic code, but risks unraveling the fabric of reality with each jump."
+  },
+  {
+    "title": "The Bio-Organic City",
+    "slug": "the-bio-organic-city",
+    "description": "A sprawling city built entirely from living organisms becomes a battleground as factions fight for control over its resources and secrets."
+  },
+  {
+    "title": "The Neural Revolution",
+    "slug": "the-neural-revolution",
+    "description": "Advances in neural interface technology bring about a new era where humans can directly connect their minds to computers, leading to unprecedented possibilities and unforeseen dangers."
+  },
+  {
+    "title": "The Gene Hunter",
+    "slug": "the-gene-hunter",
+    "description": "A skilled geneticist turned bounty hunter tracks down individuals who have illegally modified their DNA, navigating a world of underground biotech black markets."
+  },
+  {
+    "title": "The Utopian Experiment",
+    "slug": "the-utopian-experiment",
+    "description": "A group of idealistic scientists create a utopian society where everyone is genetically enhanced for perfection, but soon discover that perfection comes at a great cost."
+  },
+  {
+    "title": "The Bio-Mecha Wars",
+    "slug": "the-bio-mecha-wars",
+    "description": "In a future where biomechanical soldiers are at the forefront of warfare, two factions clash in a battle for supremacy and the fate of humanity hangs in the balance."
+  },
+  {
+    "title": "The Genetic Archives",
+    "slug": "the-genetic-archives",
+    "description": "In a post-apocalyptic world, a lone survivor stumbles upon an underground facility that houses the genetic records of the human race, sparking a journey to preserve humanity's legacy."
+  },
+  {
+    "title": "The Rebirth Project",
+    "slug": "the-rebirth-project",
+    "description": "A group of scientists embarks on a daring experiment to resurrect extinct species using genetic engineering, but unforeseen consequences threaten to destabilize the world."
+  },
+  {
+    "title": "The Bio-Net",
+    "slug": "the-bio-net",
+    "description": "A global network of interconnected biometric systems grants unprecedented control over human biology, leading to a struggle between those who seek to monopolize it and those who fight for freedom."
+  },
+  {
+    "title": "Virtual Evolution",
+    "slug": "virtual-evolution",
+    "description": "In a virtual reality simulation, individuals can evolve and adapt their genetic makeup in real-time, blurring the boundaries between the digital and biological worlds."
+  },
+  {
+    "title": "The Mutant Underground",
+    "slug": "the-mutant-underground",
+    "description": "A group of genetically mutated individuals forms an underground resistance to escape the persecution of a society that fears their extraordinary abilities."
+  },
+  {
+    "title": "The Bio-Engineered Savior",
+    "slug": "the-bio-engineered-savior",
+    "description": "A scientist creates a genetically engineered child with extraordinary powers, but must protect them from those who seek to exploit their abilities for their own gain."
+  },
+  {
+    "title": "The Genetic Detective",
+    "slug": "the-genetic-detective",
+    "description": "A detective specialized in genetic forensics uses advanced biotechnology to solve the most puzzling criminal cases, but a serial killer emerges who poses a challenge unlike anything the detective has faced before."
+  },
+  {
+    "title": "The Bio-Enhanced Revolution",
+    "slug": "the-bio-enhanced-revolution",
+    "description": "A group of bio-enhanced individuals rises up against an oppressive regime that seeks to control and suppress the use of advanced genetic modifications, sparking a revolution for freedom and equality."
+  },
+  {
+    "title": "The Quantum Genome",
+    "slug": "the-quantum-genome",
+    "description": "A scientist discovers a way to harness the power of quantum mechanics to alter the human genome, leading to a race against time to understand the implications before it falls into the wrong hands."
+  },
+  {
+    "title": "The Biotech Olympiad",
+    "slug": "the-biotech-olympiad",
+    "description": "In a world where genetic modifications have become the norm, an international competition challenges athletes with enhanced abilities to push the limits of human potential and redefine the meaning of sportsmanship."
+  },
+  {
+    "title": "The Gene-Swapping Epidemic",
+    "slug": "the-gene-swapping-epidemic",
+    "description": "A mysterious phenomenon causes people's genetic traits to randomly swap with others, turning lives upside down and raising profound questions about identity and what it truly means to be human."
+  },
+  {
+    "title": "The Biotech Healer",
+    "slug": "the-biotech-healer",
+    "description": "A talented healer discovers the power of genetic engineering to cure diseases and injuries, but as their influence and capabilities grow, they face a moral dilemma over the limits of playing god."
+  },
+  {
+    "title": "The Synthetic Soul",
+    "slug": "the-synthetic-soul",
+    "description": "A groundbreaking technology allows for the creation of synthetic souls, leading to debates on the nature of consciousness, ethical implications, and the search for true identity."
+  },
+  {
+    "title": "The Genetic Marketplace",
+    "slug": "the-genetic-marketplace",
+    "description": "In a futuristic world, genetic traits are bought and sold in a thriving marketplace, leading to socioeconomic divides, exploitation, and a clash between those who commodify genetics and those who fight for genetic equality."
+  },
+  {
+    "title": "The Transgenic Architects",
+    "slug": "the-transgenic-architects",
+    "description": "A group of visionary architects harnesses the power of genetic engineering to design and construct living buildings that adapt and evolve, revolutionizing the concept of sustainable architecture."
+  },
+  {
+    "title": "The Biocoded Chronicles",
+    "slug": "the-biocoded-chronicles",
+    "description": "In a world where human DNA is encrypted with hidden knowledge, a young protagonist embarks on a quest to unravel the secrets encoded in their own genetic makeup and confront a powerful organization seeking to control this ancient wisdom."
+  },
+  {
+    "title": "The Genetic Revolutionaries",
+    "slug": "the-genetic-revolutionaries",
+    "description": "A group of rebels fights against a tyrannical government that seeks to control and suppress genetic advancements, leading to a revolution that challenges the very foundation of society."
+  },
+  {
+    "title": "The Bio-Energy Crisis",
+    "slug": "the-bio-energy-crisis",
+    "description": "In a future dependent on bio-engineered organisms for energy, a catastrophe strikes, causing a disruption of the delicate balance between humans, technology, and nature."
+  },
+  {
+    "title": "The Clone's Dilemma",
+    "slug": "the-clones-dilemma",
+    "description": "A clone living in the shadow of their original grapples with questions of identity, purpose, and individuality, navigating a world that fears and suppresses their existence."
+  },
+  {
+    "title": "The Genetic Sanctuary",
+    "slug": "the-genetic-sanctuary",
+    "description": "A secluded sanctuary becomes a refuge for genetically diverse individuals who are hunted down by a society striving for genetic homogeneity."
+  },
+  {
+    "title": "The Synthetic Cure",
+    "slug": "the-synthetic-cure",
+    "description": "Humanity faces a devastating global pandemic, and a desperate scientist creates a synthetic cure that not only saves lives but also changes the course of human evolution."
+  },
+  {
+    "title": "The Biotech Anomaly",
+    "slug": "the-biotech-anomaly",
+    "description": "An anomaly in the genetic makeup of select individuals grants them extraordinary powers, sparking a conflict between those who seek to exploit them for personal gain and those who strive to protect them."
+  },
+  {
+    "title": "The Organic Singularity",
+    "slug": "the-organic-singularity",
+    "description": "As artificial intelligence and biotechnology converge, a new form of intelligence emerges from the complex interactions of organic and synthetic systems, leading to a potential evolutionary leap for humanity."
+  },
+  {
+    "title": "The Gene Codebreaker",
+    "slug": "the-gene-codebreaker",
+    "description": "A brilliant geneticist pursues the elusive gene code that holds the key to unlocking human potential, but their quest attracts the attention of powerful forces who will stop at nothing to control this knowledge."
+  },
+  {
+    "title": "The Bio-Interface",
+    "slug": "the-bio-interface",
+    "description": "A groundbreaking bio-interface technology allows direct communication between humans and the natural world, leading to a profound connection with the environment and a renewed sense of responsibility for its preservation."
+  },
+  {
+    "title": "The Genetic Gamble",
+    "slug": "the-genetic-gamble",
+    "description": "In a world where genetic modifications can be won or lost in high-stakes games, a talented gambler navigates a dangerous underground world while grappling with personal choices and the consequences of genetic destiny."
+  },
+  {
+    "title": "The Bio-Enhanced Detective",
+    "slug": "the-bio-enhanced-detective",
+    "description": "A detective with enhanced senses and abilities, thanks to genetic modification, takes on the most complex cases in a futuristic city where crime and biotech collide."
+  },
+  {
+    "title": "The Genetic Rebellion",
+    "slug": "the-genetic-rebellion",
+    "description": "In a dystopian society where genetic engineering is strictly regulated, a group of rebels fights for the right to control their own DNA and genetic destiny."
+  },
+  {
+    "title": "The Synthetic Virus",
+    "slug": "the-synthetic-virus",
+    "description": "An engineered virus capable of rewriting human DNA is released, causing chaos and a race against time to find a cure before the fabric of humanity is forever altered."
+  },
+  {
+    "title": "The Evolutionary Architects",
+    "slug": "the-evolutionary-architects",
+    "description": "A visionary team of architects and geneticists collaborate to design and build a city that evolves and adapts to the changing needs and desires of its inhabitants."
+  },
+  {
+    "title": "The Genetic Guardians",
+    "slug": "the-genetic-guardians",
+    "description": "A secret organization of genetically enhanced individuals uses their powers to protect and guide humanity, but their actions may have unintended consequences."
+  },
+  {
+    "title": "The Biohazard Zone",
+    "slug": "the-biohazard-zone",
+    "description": "A catastrophic biotech experiment gone wrong results in the creation of a dangerous biohazard zone, and a team of scientists and mercenaries must navigate its deadly landscape."
+  },
+  {
+    "title": "The Gene Hacktivist",
+    "slug": "the-gene-hacktivist",
+    "description": "A skilled hacker takes on a corrupt biotech corporation, exposing their unethical practices and fighting for genetic privacy and liberation."
+  },
+  {
+    "title": "The Genetic Pioneers",
+    "slug": "the-genetic-pioneers",
+    "description": "A group of scientists embarks on a daring mission to colonize a distant planet, using genetic modifications to adapt to the harsh environment and ensure the survival of humanity."
+  },
+  {
+    "title": "The Bio-Artifact",
+    "slug": "the-bio-artifact",
+    "description": "The discovery of a mysterious bio-artifact holds the key to unlocking humanity's ancient origins, leading to a journey of scientific exploration and philosophical revelations."
+  },
+  {
+    "title": "The Neogen Revolution",
+    "slug": "the-neogen-revolution",
+    "description": "In a highly stratified society divided by genetic superiority, a group of neogen rebels seeks to challenge the status quo and fight for genetic equality and justice."
+  },
+  {
+    "title": "The Genetic Outbreak",
+    "slug": "the-genetic-outbreak",
+    "description": "A deadly genetic mutation spreads rapidly, turning ordinary people into dangerous mutants, and a team of survivors must find a way to stop the outbreak and save humanity."
+  },
+  {
+    "title": "The Gene Trading Ring",
+    "slug": "the-gene-trading-ring",
+    "description": "An underground network thrives on the illegal trade of genetic material, where individuals buy, sell, and trade their genetic traits, leading to unforeseen consequences and moral quandaries."
+  },
+  {
+    "title": "The Bio-Engineering Games",
+    "slug": "the-bio-engineering-games",
+    "description": "Competitors from different nations showcase their genetically altered abilities in a global competition known as the Bio-Engineering Games, where the stakes are high and the outcome could reshape the world order."
+  },
+  {
+    "title": "The Synthetic Experiment",
+    "slug": "the-synthetic-experiment",
+    "description": "A scientist creates an advanced synthetic being, endowed with human emotions and consciousness, but as it navigates the complexities of existence, questions arise about its true nature and right to exist."
+  },
+  {
+    "title": "The Biotech Moon Colony",
+    "slug": "the-biotech-moon-colony",
+    "description": "A group of pioneers establishes a thriving colony on the moon, using genetic modifications and sustainable biotechnology to survive in the harsh lunar environment."
+  },
+  {
+    "title": "The Genetic Oracle",
+    "slug": "the-genetic-oracle",
+    "description": "A mysterious individual possesses the ability to access hidden knowledge encoded within DNA, becoming a sought-after figure with the power to shape the course of humanity."
+  },
+  {
+    "title": "The Bio-Criminal Underworld",
+    "slug": "the-bio-criminal-underworld",
+    "description": "In a future where biotechnology is prevalent, a criminal underworld emerges, dealing in illegal genetic enhancements, mind-altering substances, and conducting dangerous experiments that defy ethical boundaries."
+  },
+  {
+    "title": "The Genetic Tapestry",
+    "slug": "the-genetic-tapestry",
+    "description": "An artist uses genetic material as their medium to create stunning artwork that reflects the diversity and interconnectedness of life, but their creations also hold secrets and hidden messages."
+  },
+  {
+    "title": "The Bio-Social Experiment",
+    "slug": "the-bio-social-experiment",
+    "description": "A social scientist conducts a controversial experiment where society is divided into genetically distinct groups, exploring the impact of genetic segregation on human behavior, relationships, and societal dynamics."
+  },
+  {
+    "title": "The Gene-Editing Phenomenon",
+    "slug": "the-gene-editing-phenomenon",
+    "description": "A revolutionary gene-editing technology sweeps the globe, allowing people to manipulate their genetic code with ease, but its widespread use leads to unforeseen consequences and unforeseen power struggles."
+  },
+  {
+    "title": "The Genetic Time Capsule",
+    "slug": "the-genetic-time-capsule",
+    "description": "A group of scientists creates a time capsule containing preserved genetic material from various species, intending to preserve biodiversity and provide hope for future generations."
+  },
+  {
+    "title": "The Biohacker's Legacy",
+    "slug": "the-biohackers-legacy",
+    "description": "A renowned biohacker, on the brink of death, leaves behind a mysterious inheritance that holds the key to unlocking the next stage of human evolution."
+  },
+  {
+    "title": "The Synthetic Utopia",
+    "slug": "the-synthetic-utopia",
+    "description": "In a seemingly perfect utopian society, where synthetic beings coexist with humans, a disillusioned individual discovers dark secrets that challenge their perception of reality."
+  },
+  {
+    "title": "The Genomic Quest",
+    "slug": "the-genomic-quest",
+    "description": "To unravel the mysteries of the universe, a group of explorers embarks on a perilous journey across galaxies, guided by the revelations hidden within the human genome."
+  },
+  {
+    "title": "The Bio-Archaeologist",
+    "slug": "the-bio-archaeologist",
+    "description": "A skilled bio-archaeologist uncovers ancient genetic artifacts that hint at advanced civilizations predating recorded history, setting off a quest to unlock their secrets."
+  },
+  {
+    "title": "The Genetic Paradox",
+    "slug": "the-genetic-paradox",
+    "description": "A scientist makes a groundbreaking discovery that challenges the fundamental laws of genetics, leading to a paradigm shift and a race to redefine the boundaries of life."
+  },
+  {
+    "title": "The Biotech Manifesto",
+    "slug": "the-biotech-manifesto",
+    "description": "A charismatic visionary writes and spreads a manifesto advocating for the ethical and responsible use of biotechnology, sparking a revolution in scientific practices and societal values."
+  },
+  {
+    "title": "The Genetic Dreamscape",
+    "slug": "the-genetic-dreamscape",
+    "description": "A technology allows people to enter a virtual dreamscape where their genetic makeup shapes the world they explore, blurring the line between reality and imagination."
+  },
+  {
+    "title": "The Bio-Cybernetic Wars",
+    "slug": "the-bio-cybernetic-wars",
+    "description": "An escalating conflict erupts between bio-enhanced humans and cybernetically augmented individuals, as each group fights for dominance in a world where technology and genetics merge."
+  },
+  {
+    "title": "The Genetic Revolution Elixir",
+    "slug": "the-genetic-revolution-elixir",
+    "description": "A secret formula is discovered, capable of rewriting the human genome and ushering in a new era of genetic advancements, but its possession sparks a global race for power and control."
+  },
+  {
+    "title": "The Bio-Technological Renaissance",
+    "slug": "the-bio-technological-renaissance",
+    "description": "In a post-apocalyptic world, a group of scientists and artists merge biotechnology with creative expression to bring about a renaissance of beauty and hope."
+  },
+  {
+    "title": "The Gene Hunters' Guild",
+    "slug": "the-gene-hunters-guild",
+    "description": "A secretive guild of skilled individuals ventures into the depths of uncharted territories to discover and harvest rare genetic materials, navigating perilous landscapes and facing unknown dangers."
+  },
+  {
+    "title": "The Bio-Code Conspiracy",
+    "slug": "the-bio-code-conspiracy",
+    "description": "An ingenious hacker uncovers a hidden code embedded within the human genome, unveiling a grand conspiracy that stretches across time and space."
+  },
+  {
+    "title": "The Synthetic Renaissance",
+    "slug": "the-synthetic-renaissance",
+    "description": "Artificial beings with human-level intelligence and emotions emerge, inspiring a cultural and philosophical revolution that blurs the line between organic and synthetic existence."
+  },
+  {
+    "title": "The Biotech Resistance",
+    "slug": "the-biotech-resistance",
+    "description": "A group of rebels fights against a totalitarian regime that seeks to control and regulate all aspects of biotechnology, defending individual autonomy and the freedom to manipulate genetic destiny."
+  },
+  {
+    "title": "The Genetic Alchemist",
+    "slug": "the-genetic-alchemist",
+    "description": "A brilliant scientist delves into the ancient art of genetic alchemy, unlocking secrets that allow them to transmute DNA and manipulate life itself."
+  },
+  {
+    "title": "The Bio-Dystopia",
+    "slug": "the-bio-dystopia",
+    "description": "In a dystopian future ruled by powerful corporations, genetic modifications become a commodity exclusively available to the elite, causing societal divides and resistance from those left behind."
+  },
+  {
+    "title": "The Biotech Renaissance Fair",
+    "slug": "the-biotech-renaissance-fair",
+    "description": "A grand fair celebrates the wonders of biotechnology, showcasing breathtaking genetic creations, immersive experiences, and thought-provoking displays that captivate and inspire attendees."
+  },
+  {
+    "title": "The Bio-Generation",
+    "slug": "the-bio-generation",
+    "description": "A new generation of children is born with innate genetic enhancements, setting them apart from the previous generation and challenging societal norms and expectations."
+  },
+  {
+    "title": "The Geneticlymics",
+    "slug": "the-geneticlymics",
+    "description": "In a future where sporting events are enhanced by genetic modifications, athletes compete in the Geneticlymics, pushing the boundaries of human performance and redefining what it means to be an athlete."
+  }
+]

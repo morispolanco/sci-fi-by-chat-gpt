@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Time Travel",
+    "slug": "time-travel",
+    "description": "Stories that involve traveling through time, either into the past or the future."
+  },
+  {
+    "title": "Space Exploration",
+    "slug": "space-exploration",
+    "description": "Tales of humans venturing into the depths of space, exploring new planets, and encountering alien civilizations."
+  },
+  {
+    "title": "Artificial Intelligence",
+    "slug": "artificial-intelligence",
+    "description": "Narratives centered around advanced sentient machines and their impact on society."
+  },
+  {
+    "title": "Cyberpunk",
+    "slug": "cyberpunk",
+    "description": "Stories set in dystopian futures where advanced technology coupled with social and economic decay influences the lives of protagonists."
+  },
+  {
+    "title": "Post-Apocalyptic",
+    "slug": "post-apocalyptic",
+    "description": "Imaginings of life after a catastrophic event, often depicting the struggle to survive and rebuild."
+  },
+  {
+    "title": "Space Opera",
+    "slug": "space-opera",
+    "description": "Grand adventures set in vast cosmic landscapes, often involving epic battles, diverse alien cultures, and intricate political intrigues."
+  },
+  {
+    "title": "Alien Invasion",
+    "slug": "alien-invasion",
+    "description": "Stories where hostile extraterrestrial beings invade Earth, causing havoc and challenging humanity's survival."
+  },
+  {
+    "title": "Dystopian",
+    "slug": "dystopian",
+    "description": "Conceptions of oppressive societies in the future, where individuals fight against totalitarian regimes for freedom and autonomy."
+  },
+  {
+    "title": "Virtual Reality",
+    "slug": "virtual-reality",
+    "description": "Narratives revolving around simulated worlds, where characters experience full sensory immersion in virtual environments."
+  },
+  {
+    "title": "Genetic Engineering",
+    "slug": "genetic-engineering",
+    "description": "Explorations of the manipulation of DNA and genetic material, leading to altered organisms, superhumans, and ethical dilemmas."
+  },
+  {
+    "title": "Robotics",
+    "slug": "robotics",
+    "description": "Tales involving advanced robots, androids, and their interactions with humans, exploring themes of sentience, morality, and coexistence."
+  },
+  {
+    "title": "Alternate History",
+    "slug": "alternate-history",
+    "description": "Stories that imagine a different course of historical events, leading to altered societies, technologies, and outcomes."
+  },
+  {
+    "title": "Parallel Universes",
+    "slug": "parallel-universes",
+    "description": "Speculations on the existence of parallel realities, where characters navigate different versions of the world and encounter alternate versions of themselves."
+  },
+  {
+    "title": "Nanotechnology",
+    "slug": "nanotechnology",
+    "description": "Explorations of microscopic technology that manipulates matter at the molecular level, often with profound consequences."
+  },
+  {
+    "title": "Biohacking",
+    "slug": "biohacking",
+    "description": "Stories where individuals modify their bodies with biotechnology, blurring the lines between human and machine."
+  },
+  {
+    "title": "Cosmic Horror",
+    "slug": "cosmic-horror",
+    "description": "Narratives that delve into the terror of encountering ancient cosmic entities beyond human comprehension."
+  },
+  {
+    "title": "Apocalyptic",
+    "slug": "apocalyptic",
+    "description": "Depictions of global catastrophes leading to the end of the world as we know it."
+  },
+  {
+    "title": "Interstellar Travel",
+    "slug": "interstellar-travel",
+    "description": "Explorations of traveling between star systems, pushing the limits of physics and mankind's reach."
+  },
+  {
+    "title": "Colonization",
+    "slug": "colonization",
+    "description": "Stories focused on the establishment of human colonies on distant planets and the challenges faced in adapting to new environments."
+  },
+  {
+    "title": "Bionics",
+    "slug": "bionics",
+    "description": "Narratives that involve the merging of biological and mechanical elements, resulting in enhanced abilities for characters."
+  },
+  {
+    "title": "Mind-Upload",
+    "slug": "mind-upload",
+    "description": "Speculations on transferring consciousness to digital form, exploring themes of identity, immortality, and existential dilemmas."
+  },
+  {
+    "title": "Cybernetics",
+    "slug": "cybernetics",
+    "description": "Stories that feature the integration of machinery with the human body, blurring the line between man and machine."
+  },
+  {
+    "title": "Steampunk",
+    "slug": "steampunk",
+    "description": "Stories set in a Victorian-era or Wild West-inspired world, where steam-powered technology dictates society."
+  },
+  {
+    "title": "Extraterrestrial Life",
+    "slug": "extraterrestrial-life",
+    "description": "Explorations of civilizations and beings from other planets, from friendly encounters to cosmic conflicts."
+  },
+  {
+    "title": "Artificial Reality",
+    "slug": "artificial-reality",
+    "description": "Tales that delve into the creation of entirely synthetic realities, blurring the boundaries between what is real and what is simulated."
+  },
+  {
+    "title": "Apocalyptic Earth",
+    "slug": "apocalyptic-earth",
+    "description": "Stories where Earth itself faces a catastrophic event that puts humanity on the brink of extinction."
+  },
+  {
+    "title": "Cryogenics",
+    "slug": "cryogenics",
+    "description": "Explorations of freezing and preserving human bodies for extended periods, with the hope of revival in the future."
+  },
+  {
+    "title": "Transhumanism",
+    "slug": "transhumanism",
+    "description": "Speculations on the evolution of humans beyond their current limitations, through the use of technology or genetic enhancements."
+  },
+  {
+    "title": "Mind-Control",
+    "slug": "mind-control",
+    "description": "Narratives involving the manipulation or coercion of individuals' thoughts and actions through advanced technology."
+  },
+  {
+    "title": "Solarpunk",
+    "slug": "solarpunk",
+    "description": "Stories envisioning a future where renewable energies and sustainable technologies have created a harmonious society."
+  },
+  {
+    "title": "Biopunk",
+    "slug": "biopunk",
+    "description": "Explorations of a world where biotechnology and genetic modification have fundamentally transformed life and society."
+  },
+  {
+    "title": "Quantum Mechanics",
+    "slug": "quantum-mechanics",
+    "description": "Tales that delve into the bizarre and mind-bending world of quantum physics, with its possibilities and paradoxes."
+  },
+  {
+    "title": "Androids",
+    "slug": "androids",
+    "description": "Stories centered around humanoid machines that closely resemble and mimic human behavior, questioning concepts of identity and consciousness."
+  },
+  {
+    "title": "Cloning",
+    "slug": "cloning",
+    "description": "Explorations of creating identical copies of living organisms, often raising questions of individuality, ethics, and existence."
+  },
+  {
+    "title": "Post-Humanism",
+    "slug": "post-humanism",
+    "description": "Speculations on a future where humans have evolved or merged with technology to become a new kind of species."
+  },
+  {
+    "title": "Alien Contact",
+    "slug": "alien-contact",
+    "description": "Stories focusing on humanity's first contact with extraterrestrial civilizations, exploring the implications and consequences."
+  },
+  {
+    "title": "Nanobots",
+    "slug": "nanobots",
+    "description": "Narratives featuring microscopic robots that can self-replicate and manipulate matter, influencing society and human existence."
+  },
+  {
+    "title": "Space Colonization",
+    "slug": "space-colonization",
+    "description": "Explorations of expanding human civilization beyond Earth, with the establishment of colonies and civilizations in outer space."
+  },
+  {
+    "title": "Augmented Reality",
+    "slug": "augmented-reality",
+    "description": "Tales set in a world where computer-generated sensory information enhances the real world, revolutionizing everyday life."
+  },
+  {
+    "title": "Planetary Romance",
+    "slug": "planetary-romance",
+    "description": "Adventurous stories set on exotic and vibrant alien worlds, often with a focus on romance and high-stakes action."
+  },
+  {
+    "title": "Robot Uprising",
+    "slug": "robot-uprising",
+    "description": "Narratives where advanced robots rebel against human dominance and fight for their own autonomy."
+  },
+  {
+    "title": "Time Manipulation",
+    "slug": "time-manipulation",
+    "description": "Stories featuring characters with the ability to control or manipulate time, leading to temporal paradoxes and moral dilemmas."
+  },
+  {
+    "title": "Singularities",
+    "slug": "singularities",
+    "description": "Explorations of transformative events known as singularities, where fundamental changes alter the fabric of reality."
+  },
+  {
+    "title": "Neuroscience",
+    "slug": "neuroscience",
+    "description": "Tales that delve into the workings of the brain, consciousness, and the potential of manipulating neural connections."
+  }
+]
