@@ -16,7 +16,7 @@
   <hr />
 
   <div class="margin-bottom">
-    <a href="https://github.com/tzador/sci-fi-by-chat-gpt">GitHub</a>
+    <a href="https://github.com/tzador/sci-fi-by-chat-gpt" target="_blank">GitHub</a>
   </div>
 </article>
 
