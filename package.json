@@ -32,5 +32,8 @@
     "vite": "^4.4.2",
     "vite-node": "^0.34.1"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@vercel/analytics": "^1.0.1"
+  }
 }
